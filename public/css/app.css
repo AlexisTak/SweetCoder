@@ -1,0 +1,41 @@
+/**
+*Début de votre code CSS pour ceci nous utiliserons Tailwind CSS 
+*Framework CSS
+*Author: Sweetoky
+**/
+
+html, body {
+    background: #1b1b1b;
+    color: #ffffff;
+}
+
+h1 {
+ font-size: 42px;
+ text-align: center;
+ margin-top: 1em;
+ color: brown;
+}
+
+.welcome {
+    color: #ffffff;
+    font-size: 32px;
+    margin-left: 10px;
+}
+
+.discord {
+    color: tan;
+    margin-left: 13px;
+    font-size: 25px;
+}
+
+img.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+
+.footer {
+    margin: 15px;
+    text-align: center;
+    font-size: 20px;
+}
